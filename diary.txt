@@ -57,9 +57,7 @@ Errors: 0
       bunnyEars(9)=18
       bunnyEars(11)=22
       bunnyEars(21)=42
-      bunnyEars(10)=20
-
-
+ERROR: Must have a whole number of bunnies
         close10(8,13)->8
         close10(13,8)->8
         close10(7,13)->0
